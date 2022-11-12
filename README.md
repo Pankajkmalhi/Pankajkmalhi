@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pankajkmalhi
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Frontend and database 
+- 🌱 I’m currently learning Frontend
 - 📫 How to reach me www.linkedin.com/in/pankaj-malhi
 
 <!---
