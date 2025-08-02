@@ -77,18 +77,3 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pankajkmalhi&show_icons=true&locale=en&layout=compact" alt="top-langs" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pankajkmalhi&show_icons=true&locale=en" alt="stats" />
-</p>
-
----
-
-### ✍️ Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
