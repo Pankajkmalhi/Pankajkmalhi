@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pankaj Kumar</h1>
 <h3 align="center">
-Senior Software Engineer | Applied AI & ML | AI Agents & SaaS Product Builder
+Senior Software Engineer | Applied AI & ML | AI Agents & Automation | SaaS Product Builder
 </h3>
 
 <p align="center">
@@ -9,46 +9,67 @@ Senior Software Engineer | Applied AI & ML | AI Agents & SaaS Product Builder
 
 ---
 
-🚀 I’m a **Senior Software Engineer** working at the intersection of **Applied AI, Machine Learning, AI agents, and SaaS product development**.  
-I specialize in taking **AI ideas from research and experimentation to production-ready systems** used by real businesses.
+🚀 I’m a **Senior Software Engineer** specializing in **Applied AI, Machine Learning, AI agents, and intelligent workflow automation**.  
+I help businesses **automate operations, scale outbound/inbound processes**, and turn **AI ideas into production-ready SaaS products**.
 
-I build **scalable AI-powered products**, intelligent automation, and end-to-end platforms using modern ML, LLMs, and cloud-native architectures.
+I work across **code-first AI systems** and **low/no-code automation platforms**, bridging **AI research, engineering, and real-world business automation**.
 
 ---
 
 ## 🔍 Core Expertise
 
 - 🤖 **AI Agents & LLM Systems** (multi-agent workflows, tools, memory)
-- 🧠 **Machine Learning & Deep Learning** (applied & production-focused)
-- 🔗 **RAG Pipelines** (vector search, embeddings, document intelligence)
-- 🧪 **Applied AI Research → Production**
-- ⚙️ **MLOps & Deployment** (Docker, CI/CD, cloud ML)
+- 🔁 **Workflow Automation & AI Orchestration**
+- 🧠 **Machine Learning & Deep Learning (Applied AI)**
+- 🔗 **RAG Pipelines & Document Intelligence**
+- ⚙️ **MLOps & AI Deployment**
 - 🌐 **Full-Stack SaaS Engineering**
 
 ---
 
-## 🧠 AI / ML Stack
+## 🧠 AI, Automation & ML Stack
 
-- **LLMs & GenAI**: GPT-4, Gemini, Mistral, LLaMA, Hugging Face
-- **Frameworks**: LangChain, LlamaIndex, LangGraph
-- **RAG & Search**: Pinecone, ChromaDB, FAISS, OCR pipelines
-- **Prompting**: ReAct, CoT, Map-Reduce, Agentic RAG
-- **NLP**: NER, classification, summarization, sentiment analysis
-- **Computer Vision**: YOLO, Mask R-CNN, OCR
-- **Audio AI**: Whisper, AssemblyAI
-- **Time Series**: Prophet, LSTM, ARIMA
-- **MLOps**: Docker, Flask/FastAPI, Hugging Face Spaces, GCP, AWS
+### 🤖 LLMs & Generative AI
+- GPT-4, Gemini, Mistral, LLaMA, Hugging Face
+- LangChain, LlamaIndex, LangGraph
+- Agentic workflows, tool calling, memory, evaluators
+
+### 🔁 Automation Platforms & Tools
+- **n8n** (custom AI workflows, self-hosted automations)
+- **Make.com (Integromat)**
+- **Zapier**
+- **GoHighLevel (GHL)** – CRM, outbound & inbound automation
+- Webhooks, REST APIs, event-driven workflows
+- AI-triggered automations & decision trees
+
+### 🔍 RAG, Search & Data
+- Pinecone, ChromaDB, FAISS
+- Embeddings, vector search, OCR pipelines
+- Document parsing & knowledge bases
+
+### 🧪 Applied ML & AI
+- NLP: NER, classification, summarization, sentiment analysis
+- Computer Vision: YOLO, Mask R-CNN, OCR
+- Audio AI: Whisper, AssemblyAI
+- Time Series: Prophet, LSTM, ARIMA
+
+### ⚙️ MLOps & Deployment
+- FastAPI, Flask
+- Docker, CI/CD
+- GCP, AWS, Firebase
+- Hugging Face Spaces
 
 ---
 
 ## 💡 About Me
 
-- 🔭 Currently building **LLM + RAG-powered AI agents for business automation**
+- 🔭 Currently building **LLM-powered AI agents and automation systems for businesses**
+- 🧩 Designing **AI + n8n / Make / GHL workflows** for sales, support, and ops
 - 🌱 Learning **advanced MLOps, fine-tuning, and scalable agent architectures**
-- 🧪 Interested in **applied AI research with real-world impact**
-- 📝 Writing about **AI, ML, LLMs, and SaaS engineering** on  
+- 🧪 Interested in **applied AI research with real-world ROI**
+- 📝 Writing about **AI, ML, automation, and SaaS engineering** on  
   👉 <a href="https://medium.com/@pankaj.kmalhi">Medium</a>
-- 💬 Ask me about **AI agents, ML pipelines, SaaS architecture, or GenAI**
+- 💬 Ask me about **AI agents, workflow automation, SaaS architecture, or GenAI**
 - 📫 Reach me at **pankaj.kmalhi@gmail.com**
 
 ---
@@ -82,8 +103,6 @@ I build **scalable AI-powered products**, intelligent automation, and end-to-end
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" />
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" />
 </p>
 
 ---
